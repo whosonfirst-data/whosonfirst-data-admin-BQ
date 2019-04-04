@@ -1,0 +1,68 @@
+{
+  "id": 1259910815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.96667,17.46667,-62.96667,17.46667",
+    "geom:latitude":17.46667,
+    "geom:longitude":-62.96667,
+    "gn:admin1_code":"SE",
+    "gn:asciiname":"Glass Bottle",
+    "gn:country_code":"BQ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3513716,
+    "gn:latitude":17.46667,
+    "gn:longitude":-62.96667,
+    "gn:modification_date":"2010-12-19",
+    "gn:name":"Glass Bottle",
+    "gn:population":0,
+    "gn:timezone":"America/Kralendijk",
+    "iso:country":"BQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136251281,
+        85675531,
+        102191575,
+        136253051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513716
+    },
+    "wof:country":"BQ",
+    "wof:geomhash":"e507063b7632290034d62a1abd7407f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":136251281,
+            "empire_id":136253051,
+            "locality_id":1259910815,
+            "region_id":85675531
+        }
+    ],
+    "wof:id":1259910815,
+    "wof:lastmodified":1536739741,
+    "wof:name":"Glass Bottle",
+    "wof:parent_id":85675531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.96666999999999,
+    17.46667,
+    -62.96666999999999,
+    17.46667
+],
+  "geometry": {"coordinates":[-62.96666999999999,17.46667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242907853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.23333,12.15,-68.23333,12.15",
+    "geom:latitude":12.15,
+    "geom:longitude":-68.23333,
+    "gn:admin1_code":"BO",
+    "gn:asciiname":"Paradijs",
+    "gn:country_code":"BQ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3513409,
+    "gn:latitude":12.15,
+    "gn:longitude":-68.23333,
+    "gn:modification_date":"2010-12-19",
+    "gn:name":"Paradijs",
+    "gn:population":0,
+    "gn:timezone":"America/Kralendijk",
+    "iso:country":"BQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136251281,
+        85675535,
+        102191575,
+        136253051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513409
+    },
+    "wof:country":"BQ",
+    "wof:geomhash":"9f4862185f42d92d9c4ae802e83041a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":136251281,
+            "empire_id":136253051,
+            "locality_id":1242907853,
+            "region_id":85675535
+        }
+    ],
+    "wof:id":1242907853,
+    "wof:lastmodified":1537081864,
+    "wof:name":"Paradijs",
+    "wof:parent_id":85675535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.23333000000001,
+    12.15,
+    -68.23333000000001,
+    12.15
+],
+  "geometry": {"coordinates":[-68.23333000000001,12.15],"type":"Point"}
+}

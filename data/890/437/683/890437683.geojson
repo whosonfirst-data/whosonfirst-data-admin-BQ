@@ -1,0 +1,67 @@
+{
+  "id": 890437683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.95,17.48333,-62.95,17.48333",
+    "geom:latitude":17.48333,
+    "geom:longitude":-62.95,
+    "gn:country":"BQ",
+    "gn:fcode":"PPLL",
+    "gn:pop":51,
+    "iso:country":"BQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mountain Piece",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        136251281,
+        85675531,
+        102191575,
+        136253051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513461,
+        "gp:id":151947,
+        "qs:id":95821
+    },
+    "wof:country":"BQ",
+    "wof:created":1469052162,
+    "wof:geomhash":"49de2091f0ecab6dd6a1243a68bec1d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":136251281,
+            "empire_id":136253051,
+            "locality_id":890437683,
+            "region_id":85675531
+        }
+    ],
+    "wof:id":890437683,
+    "wof:lastmodified":1509997980,
+    "wof:name":"Mountain Piece",
+    "wof:parent_id":85675531,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-bq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.95,
+    17.48333,
+    -62.95,
+    17.48333
+],
+  "geometry": {"coordinates":[-62.95,17.48333],"type":"Point"}
+}

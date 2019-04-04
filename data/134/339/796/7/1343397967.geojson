@@ -1,0 +1,72 @@
+{
+  "id": 1343397967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.21667,12.16667,-68.21667,12.16667",
+    "geom:latitude":12.16667,
+    "geom:longitude":-68.21667,
+    "gn:admin1_code":"BO",
+    "gn:asciiname":"Cas Cora",
+    "gn:country_code":"BQ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3513841,
+    "gn:latitude":12.16667,
+    "gn:longitude":-68.21667,
+    "gn:modification_date":"2010-12-19",
+    "gn:name":"Cas Cor\u00e1",
+    "gn:population":0,
+    "gn:timezone":"America/Kralendijk",
+    "iso:country":"BQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rood Huis",
+        "Cas Cor\u00e1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136251281,
+        85675535,
+        102191575,
+        136253051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513841
+    },
+    "wof:country":"BQ",
+    "wof:geomhash":"e3bd27b7bcb8270ffdaeea31a1f9bd23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":136251281,
+            "empire_id":136253051,
+            "locality_id":1343397967,
+            "region_id":85675535
+        }
+    ],
+    "wof:id":1343397967,
+    "wof:lastmodified":1537588195,
+    "wof:name":"Cas Cora",
+    "wof:parent_id":85675535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.21667,
+    12.16667,
+    -68.21667,
+    12.16667
+],
+  "geometry": {"coordinates":[-68.21666999999999,12.16667],"type":"Point"}
+}

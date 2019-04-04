@@ -1,0 +1,106 @@
+{
+  "id": 890429295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-63.23136,17.62864,-63.23136,17.62864",
+    "geom:latitude":17.62864,
+    "geom:longitude":-63.23136,
+    "gn:country":"BQ",
+    "gn:fcode":"PPL",
+    "gn:pop":442,
+    "iso:country":"BQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0548\u0582\u056b\u0576\u0564\u0578\u0582\u0561\u0580\u0564\u057d\u0561\u056b\u0564"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0423\u0456\u043d\u0434\u0432\u0430\u0440\u0434\u0441\u0430\u0439\u0434"
+    ],
+    "name:dut_x_preferred":[
+        "Windwardside"
+    ],
+    "name:eng_x_preferred":[
+        "Windwardside"
+    ],
+    "name:fre_x_preferred":[
+        "Windwardside"
+    ],
+    "name:fry_x_preferred":[
+        "Windwardside"
+    ],
+    "name:ger_x_preferred":[
+        "Windwardside"
+    ],
+    "name:pol_x_preferred":[
+        "Windwardside"
+    ],
+    "name:por_x_preferred":[
+        "Windwardside"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0438\u043d\u0434\u0432\u0430\u0440\u0434\u0441\u0430\u0439\u0434"
+    ],
+    "name:spa_x_preferred":[
+        "Windwardside"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0438\u043d\u0434\u0432\u0430\u0440\u0434\u0441\u0430\u0458\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0456\u043d\u0434\u0432\u0430\u0440\u0434\u0441\u0430\u0439\u0434"
+    ],
+    "qs:name":"Windward Side",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        136251281,
+        102191575,
+        136253051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513083,
+        "gp:id":152023,
+        "qs:id":95817,
+        "wd:id":"Q2983401"
+    },
+    "wof:country":"BQ",
+    "wof:created":1469051806,
+    "wof:geomhash":"d4adae6311a1b73d0f3000bca87b010c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":136251281,
+            "empire_id":136253051,
+            "locality_id":890429295,
+            "region_id":-1
+        }
+    ],
+    "wof:id":890429295,
+    "wof:lastmodified":1513901197,
+    "wof:name":"Windward Side",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":442,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -63.23136,
+    17.62864,
+    -63.23136,
+    17.62864
+],
+  "geometry": {"coordinates":[-63.23136,17.62864],"type":"Point"}
+}

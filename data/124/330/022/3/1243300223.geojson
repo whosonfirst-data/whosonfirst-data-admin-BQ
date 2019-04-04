@@ -1,0 +1,68 @@
+{
+  "id": 1243300223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.27295,12.22435,-68.27295,12.22435",
+    "geom:latitude":12.22435,
+    "geom:longitude":-68.27295,
+    "gn:admin1_code":"BO",
+    "gn:asciiname":"Leeuwarden",
+    "gn:country_code":"BQ",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3513539,
+    "gn:latitude":12.22435,
+    "gn:longitude":-68.27295,
+    "gn:modification_date":"2015-03-26",
+    "gn:name":"Leeuwarden",
+    "gn:population":0,
+    "gn:timezone":"America/Kralendijk",
+    "iso:country":"BQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136251281,
+        85675535,
+        102191575,
+        136253051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513539
+    },
+    "wof:country":"BQ",
+    "wof:geomhash":"0e52aecf956eb3980f93b0bb673f2e0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":136251281,
+            "empire_id":136253051,
+            "locality_id":1243300223,
+            "region_id":85675535
+        }
+    ],
+    "wof:id":1243300223,
+    "wof:lastmodified":1537015486,
+    "wof:name":"Leeuwarden",
+    "wof:parent_id":85675535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.27295,
+    12.22435,
+    -68.27295,
+    12.22435
+],
+  "geometry": {"coordinates":[-68.27294999999999,12.22435],"type":"Point"}
+}

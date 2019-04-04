@@ -1,0 +1,73 @@
+{
+  "id": 1260110981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.26667,12.15,-68.26667,12.15",
+    "geom:latitude":12.15,
+    "geom:longitude":-68.26667,
+    "gn:admin1_code":"BO",
+    "gn:asciiname":"Dorp Nikiboko",
+    "gn:country_code":"BQ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3513767,
+    "gn:latitude":12.15,
+    "gn:longitude":-68.26667,
+    "gn:modification_date":"2010-12-19",
+    "gn:name":"Dorp Nikiboko",
+    "gn:population":0,
+    "gn:timezone":"America/Kralendijk",
+    "iso:country":"BQ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dorp Nikiboco",
+        "Nikiboko",
+        "Dorp Nikiboko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136251281,
+        85675535,
+        102191575,
+        136253051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513767
+    },
+    "wof:country":"BQ",
+    "wof:geomhash":"eb2616c46123598135352afa7a32a1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":136251281,
+            "empire_id":136253051,
+            "locality_id":1260110981,
+            "region_id":85675535
+        }
+    ],
+    "wof:id":1260110981,
+    "wof:lastmodified":1537588195,
+    "wof:name":"Dorp Nikiboko",
+    "wof:parent_id":85675535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.26666999999999,
+    12.15,
+    -68.26666999999999,
+    12.15
+],
+  "geometry": {"coordinates":[-68.26666999999999,12.15],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1125868483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-68.26667,12.16667,-68.26667,12.16667",
+    "geom:latitude":12.16667,
+    "geom:longitude":-68.26667,
+    "gn:gn_country":"BQ",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2980,
+    "gn:population":2980,
+    "iso:country":"BQ",
+    "lbl:latitude":12.16667,
+    "lbl:longitude":-68.26667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Entrejol"
+    ],
+    "qs_pg:aaroncc":"BQ",
+    "qs_pg:gn_country":"BQ",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3513768,
+    "qs_pg:gn_pop":2980,
+    "qs_pg:name":"Dorp Antriol",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":95823,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        136251281,
+        85675535,
+        102191575,
+        136253051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3513768,
+        "qs_pg:id":95823
+    },
+    "wof:country":"BQ",
+    "wof:created":1497294165,
+    "wof:geomhash":"781936d60956dfff8ad7674181332059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":136251281,
+            "empire_id":136253051,
+            "locality_id":1125868483,
+            "region_id":85675535
+        }
+    ],
+    "wof:id":1125868483,
+    "wof:lastmodified":1509997980,
+    "wof:name":"Dorp Antriol",
+    "wof:parent_id":85675535,
+    "wof:placetype":"locality",
+    "wof:population":2980,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bq",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -68.26667,
+    12.16667,
+    -68.26667,
+    12.16667
+],
+  "geometry": {"coordinates":[-68.26667,12.16667],"type":"Point"}
+}

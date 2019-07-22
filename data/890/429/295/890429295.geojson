@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Windwardside"
     ],
+    "name:eus_x_preferred":[
+        "Windwardside"
+    ],
     "name:fra_x_preferred":[
         "Windwardside"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890429295,
-    "wof:lastmodified":1561840660,
+    "wof:lastmodified":1563577447,
     "wof:name":"Windward Side",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

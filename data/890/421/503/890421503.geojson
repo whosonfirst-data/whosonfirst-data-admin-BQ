@@ -11,11 +11,15 @@
     "geom:longitude":-63.2434,
     "gn:country":"BQ",
     "gn:fcode":"PPL",
-    "gn:pop":197,
+    "gn:population":197,
     "iso:country":"BQ",
+    "lbl:bbox":"-63.2634,17.60059,-63.2234,17.64059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Sint John"
     ],
     "qs:name":"Saint John's Flat",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3513308,
         "gp:id":151875,
-        "qs:id":95820
+        "qs_pg:id":95820
     },
     "wof:country":"BQ",
     "wof:created":1469051395,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890421503,
-    "wof:lastmodified":1509997980,
+    "wof:lastmodified":1566618154,
     "wof:name":"Saint John's Flat",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

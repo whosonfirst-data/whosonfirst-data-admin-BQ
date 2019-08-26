@@ -11,10 +11,14 @@
     "geom:longitude":-63.23136,
     "gn:country":"BQ",
     "gn:fcode":"PPL",
-    "gn:pop":442,
+    "gn:population":442,
     "iso:country":"BQ",
+    "lbl:bbox":"-63.25136,17.60864,-63.21136,17.64864",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0423\u0456\u043d\u0434\u0432\u0430\u0440\u0434\u0441\u0430\u0439\u0434"
     ],
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":3513083,
         "gp:id":152023,
-        "qs:id":95817,
+        "qs_pg:id":95817,
         "wd:id":"Q2983401"
     },
     "wof:country":"BQ",
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":890429295,
-    "wof:lastmodified":1563577447,
+    "wof:lastmodified":1566618154,
     "wof:name":"Windward Side",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

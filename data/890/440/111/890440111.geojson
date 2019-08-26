@@ -11,8 +11,11 @@
     "geom:longitude":-62.98324,
     "gn:country":"BQ",
     "gn:fcode":"PPLA",
-    "gn:pop":1097,
+    "gn:population":1097,
     "iso:country":"BQ",
+    "lbl:bbox":"-63.00324,17.46268,-62.96324,17.50268",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -145,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0430\u043d\u044c\u0454\u0441\u0442\u0430\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Orange Town"
     ],
     "name:urd_x_preferred":[
@@ -271,7 +274,7 @@
     "wof:concordances":{
         "gn:id":3513426,
         "gp:id":151897,
-        "qs:id":274385,
+        "qs_pg:id":274385,
         "wd:id":"Q217610",
         "wk:page":"Oranjestad"
     },
@@ -289,7 +292,7 @@
         }
     ],
     "wof:id":890440111,
-    "wof:lastmodified":1563577446,
+    "wof:lastmodified":1566618154,
     "wof:name":"Oranjestad",
     "wof:parent_id":85675531,
     "wof:placetype":"locality",

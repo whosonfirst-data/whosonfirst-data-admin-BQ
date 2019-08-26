@@ -11,10 +11,14 @@
     "geom:longitude":-62.98333,
     "gn:country":"BQ",
     "gn:fcode":"PPLL",
-    "gn:pop":823,
+    "gn:population":823,
     "iso:country":"BQ",
+    "lbl:bbox":"-63.00333,17.46333,-62.96333,17.50333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Golden Rock"
     ],
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":3513714,
         "gp:id":151897,
-        "qs:id":583373,
+        "qs_pg:id":583373,
         "wk:page":"Golden Rock"
     },
     "wof:country":"BQ",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890431327,
-    "wof:lastmodified":1564131035,
+    "wof:lastmodified":1566618154,
     "wof:name":"Golden Rock",
     "wof:parent_id":85675531,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-63.24919,
     "gn:country":"BQ",
     "gn:fcode":"PPLA",
-    "gn:pop":488,
+    "gn:population":488,
     "iso:country":"BQ",
+    "lbl:bbox":"-63.26919,17.6059,-63.22919,17.6459",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "The Bottom"
     ],
@@ -129,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0442\u0442\u043e\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Leverock Town"
     ],
     "name:urd_x_preferred":[
@@ -164,10 +168,12 @@
     "wof:concordances":{
         "gn:id":3513173,
         "gp:id":152023,
-        "qs:id":95819,
-        "qs_pg:id":1080031,
+        "qs_pg:id":95819,
         "wd:id":"Q475718",
         "wk:page":"The Bottom"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1080031
     },
     "wof:country":"BQ",
     "wof:created":1469051806,
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":890429299,
-    "wof:lastmodified":1563577448,
+    "wof:lastmodified":1566618155,
     "wof:name":"The Bottom",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

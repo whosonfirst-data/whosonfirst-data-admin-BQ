@@ -11,11 +11,15 @@
     "geom:longitude":-68.26667,
     "gn:country":"BQ",
     "gn:fcode":"PPL",
-    "gn:pop":1186,
+    "gn:population":1186,
     "iso:country":"BQ",
+    "lbl:bbox":"-68.28667,12.11333,-68.24667,12.15333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Dorp Tera Cor\u00e1"
     ],
     "qs:name":"Dorp Tera Kora",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3513760,
         "gp:id":12515137,
-        "qs:id":148600
+        "qs_pg:id":148600
     },
     "wof:country":"BQ",
     "wof:created":1469052041,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":890434829,
-    "wof:lastmodified":1509997979,
+    "wof:lastmodified":1566618155,
     "wof:name":"Dorp Tera Kora",
     "wof:parent_id":85675535,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-62.95,
     "gn:country":"BQ",
     "gn:fcode":"PPLL",
-    "gn:pop":51,
+    "gn:population":51,
     "iso:country":"BQ",
+    "lbl:bbox":"-62.97,17.46333,-62.93,17.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Mountain Piece",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3513461,
         "gp:id":151947,
-        "qs:id":95821
+        "qs_pg:id":95821
     },
     "wof:country":"BQ",
     "wof:created":1469052162,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":890437683,
-    "wof:lastmodified":1509997980,
+    "wof:lastmodified":1566618154,
     "wof:name":"Mountain Piece",
     "wof:parent_id":85675531,
     "wof:placetype":"locality",

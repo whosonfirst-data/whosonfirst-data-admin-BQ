@@ -11,10 +11,14 @@
     "geom:longitude":-68.26667,
     "gn:country":"BQ",
     "gn:fcode":"PPLA",
-    "gn:pop":3081,
+    "gn:population":3081,
     "iso:country":"BQ",
+    "lbl:bbox":"-68.28667,12.13,-68.24667,12.17",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Kralendijk"
     ],
@@ -144,7 +148,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0440\u0430\u043b\u0435\u043d\u0434\u0435\u0439\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Playa"
     ],
     "name:urd_x_preferred":[
@@ -180,10 +184,12 @@
     "wof:concordances":{
         "gn:id":3513563,
         "gp:id":151926,
-        "qs:id":148599,
-        "qs_pg:id":457199,
+        "qs_pg:id":148599,
         "wd:id":"Q331584",
         "wk:page":"Kralendijk"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":457199
     },
     "wof:country":"BQ",
     "wof:created":1469052041,
@@ -199,7 +205,7 @@
         }
     ],
     "wof:id":890434825,
-    "wof:lastmodified":1563577449,
+    "wof:lastmodified":1566618155,
     "wof:name":"Kralendijk",
     "wof:parent_id":85675535,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":-63.22649,
     "gn:country":"BQ",
     "gn:fcode":"PPL",
-    "gn:pop":2810,
+    "gn:population":2810,
     "iso:country":"BQ",
+    "lbl:bbox":"-63.24649,17.623,-63.20649,17.663",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Hellsgate"
     ],
     "qs:name":"Upper Hell's Gate",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":3513146,
         "gp:id":12515142,
-        "qs:id":95818
+        "qs_pg:id":95818
     },
     "wof:country":"BQ",
     "wof:created":1469051806,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890429297,
-    "wof:lastmodified":1509997980,
+    "wof:lastmodified":1566618155,
     "wof:name":"Upper Hell's Gate",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -121,6 +121,10 @@
         "qs_pg:id":1082637
     },
     "wof:country":"BQ",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"685a957ffa604a1948d0b633dc02f328",
     "wof:hierarchy":[
         {
@@ -137,7 +141,7 @@
     "wof:lang":[
         "dut"
     ],
-    "wof:lastmodified":1566618150,
+    "wof:lastmodified":1582331169,
     "wof:name":"Prospect",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

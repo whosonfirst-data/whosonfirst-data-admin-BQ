@@ -193,6 +193,9 @@
     },
     "wof:country":"BQ",
     "wof:created":1469052041,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c1c45bd237eea1c5b848b49a169d5f59",
     "wof:hierarchy":[
         {
@@ -205,7 +208,7 @@
         }
     ],
     "wof:id":890434825,
-    "wof:lastmodified":1566618155,
+    "wof:lastmodified":1582331169,
     "wof:name":"Kralendijk",
     "wof:parent_id":85675535,
     "wof:placetype":"locality",

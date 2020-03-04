@@ -177,6 +177,9 @@
     },
     "wof:country":"BQ",
     "wof:created":1469051806,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b7c92353f48d4c677837d86d14900716",
     "wof:hierarchy":[
         {
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":890429299,
-    "wof:lastmodified":1566618155,
+    "wof:lastmodified":1582331169,
     "wof:name":"The Bottom",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
